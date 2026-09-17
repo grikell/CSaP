@@ -1,4 +1,4 @@
-# Computer Systems and Programming (2024 - 2025)
+# Computer Systems and Programming (2026 - 2027)
 
 #### Teacher: Giorgio Richelli - [giorgio.richelli@uniroma1NOSPAM.it](mailto:giorgio.richelli@uniroma1.it)
 
@@ -13,7 +13,7 @@ Lectures will be delivered in presence (no streaming).
 
 ### Office Hours
 
-**By previous appointment, before or after the lessons. However students can always use email and/or schedule a webmeeting.**
+By previous appointment, before or after the lessons. However students can always use email and/or schedule a webmeeting.
 
 ### CSAP Google Group
 
@@ -55,7 +55,7 @@ Working natively on other devices, such as Mac or Windows laptop, while possible
 
 ## **Exam**
 
-The exam consists in an oral discussion of a bundle of C sources, makefiles & documentation, a.k.a “**The Project**”.
+The exam consists in an oral discussion of a bundle of C sources, makefiles & documentation, a.k.a “*The Project*”.
 
 The Project consists of a C language program(s) that satisfies a set of specified requirements, **using only the library calls that are part of the course program**. The use of other calls is generally not accepted. If in doubt, ask the teacher.
 
