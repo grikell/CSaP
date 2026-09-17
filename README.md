@@ -1,28 +1,29 @@
 # **Computer Systems and Programming (2024 - 2025)**
 
-#### **Teacher: Giorgio Richelli - [giorgio.richelli@uniroma1.it**](mailto:giorgio.richelli@uniroma1.it)
+#### Teacher: Giorgio Richelli - [giorgio.richelli@uniroma1NOSPAM.it](mailto:giorgio.richelli@uniroma1.it)
 
 ## **NEWS**
 
-Class Timetable
+Class Timetable:
 
-- Monday h.08:00/10:00- Aula Magna (V.le Regina Elena)
+- Monday h.08:00/10:00- Aula 201 (Ed. D, V.le Regina Elena)
 
-- Tuesday h.13:00/16:00 - Aula Alfa (Via Salaria)
+- Wednesday h.14:00/17:00 - Aula 2 (Via del Castro Laurenziano)
 
 Lectures will be delivered in presence (no streaming).
 
 ### **Office Hours**
 
-**By previous appointment, before or after the lessons.**
+**By previous appointment, before or after the lessons. However students can always use email and/or schedule a webmeeting.**
 
-**Students can always use email and/or schedule a webmeeting**
 
 **CSAP Google Group**
 
 A group has been created in order to allow communication, sharing of information, etc.
 
-Interested students are invited to join it, in order to to get access to the folder where code, slides and recordings will be available.
+Interested students are invited to join it, also to get access to the folder where code, slides and recordings will be available.
+
+To be added to the group, send me an email using your “*institutional*” (uniroma1)  address.
 
 ### Objectives
 
@@ -38,7 +39,7 @@ The objective is to make students able to understand, write and modify, programs
 
 4. primitives for network programming (sockets)
 
-and be able to:
+And then be able to:
 
 1. use the primitives provided by the operating system and integrate them correctly into the code.
 
@@ -64,21 +65,22 @@ In practice, you will need (at least):
 
 - understanding of computer network protocols (preferably TCP/IP).
 
-Each student should have access to a Linux system (a VM is ok), including the compiler, development tools (make, debugger, etc) and man pages. Ubuntu 26.04 is the recommended platform.
+
+**Each student should have access to a Linux system** (a VM is ok), including the compiler, development tools (make, debugger, etc) and man pages. Ubuntu 26.04 is the recommended platform.
 
 Working natively on other devices, such as Mac or Windows laptop, while possible, is not recommended due to suble differences in the compiler suite and OS interface.
 
 ## **Exam**
 
-**The exam consists in an oral discussion of a set of C sources, makefiles & documentation, a.k.a “*the project*”.**
+**The exam consists in an oral discussion of a bundle of C sources, makefiles & documentation, a.k.a “T*he Project*”.**
 
-The project consists of a C language program that satisfies a set of specified requirements, **using only the library calls that are part of the course program**. The use of other calls is generally not accepted. If in doubt, ask the teacher.
+The Project consists of a C language program(s) that satisfies a set of specified requirements, **using only the library calls that are part of the course program**. The use of other calls is generally not accepted. If in doubt, ask the teacher.
 
 The project code must correctly compile and execute in the required software environment (compiler version, kernel version, clib version).
 
 Each exam session may have a different project. All detailed specifications will be posted on the Google Group.
 
-The project can be done in a team of max. two persons and it must constitute an original creation. Therefore it is not possible to share parts of the code, or copy contents from other sources. 
+The project can be done in a team of max. two persons **and it must constitute an original creation**. Therefore it is not possible to share parts of the code, or copy contents from other sources. 
 
 However, discussions between students, exchanges of ideas, use of mailing lists, chats, and in general everything that helps the student to learn are legitimate and appreciated (in case of doubts regarding which forms of collaboration are considered legitimate or not, it is better to explicitly ask for clarification).
 
@@ -121,4 +123,3 @@ However, the oral discussion is the mail component of the final evaluation.
 - **BW Kernighan, R. Pike : The Practice of Programming**
 
 - **M. Mitchell, J. Oldham, A. Samuel: Advanced Linux Programming**
-
