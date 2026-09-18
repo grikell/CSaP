@@ -75,7 +75,7 @@ The evaluation criteria of the project are:
 - Modularity and readability of the code: division into functions, comments, function and variable names (!), etc...
 - Quality of documentation: user manual, software architecture, README file, project report.
 
-**However, the oral discussion is the mail component of the final evaluation.**
+**However, the oral discussion is the main component of the final evaluation.**
 
 ### Program
 
