@@ -1,6 +1,6 @@
 # Computer Systems and Programming (2026 - 2027)
 
-#### Teacher: Giorgio Richelli - [giorgio.richelli@uniroma1NOSPAM.it](mailto:giorgio.richelli@uniroma1.it)
+#### Teacher: Giorgio Richelli - [giorgio.richelli@uniroma1NOSPAM.it](mailto:giorgio.richelli@uniroma1NOSPAM.it)
 
 ## NEWS
 
