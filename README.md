@@ -6,10 +6,10 @@
 
 Class Timetable:
 
+**The lesson on October 19<sup>th</sup> will be held in Room 2L (Castro Laurenziano)**
+
 - Monday h.08:00/10:00- Aula 201 (Ed. D, V.le Regina Elena)
 - Wednesday h.14:00/17:00 - Aula 2 (Via del Castro Laurenziano)
-
-**On October 19<sup>th</sup> Lesson will be delivered in Room 2L (Castro Laurenziano)**
 
 Lectures will be delivered in presence (no streaming).
 
