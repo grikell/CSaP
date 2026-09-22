@@ -10,6 +10,7 @@ Class Timetable:
 - Wednesday h.14:00/17:00 - Aula 2 (Via del Castro Laurenziano)
 
 **On October 19<sup>th</sup> Lesson will be delivered in Room 2L (Castro Laurenziano)**
+
 Lectures will be delivered in presence (no streaming).
 
 ### Office Hours
